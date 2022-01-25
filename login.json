@@ -1,0 +1,12 @@
+{
+    "Login": {
+        "success": true,
+        "message": "Berhasil Registrasi",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI3IiwianRpIjoiYjA0NDFmNTk5N2JjNGE2ZmIxNDhhNDEzYWMwNjhlYjgyYjY2OGU5YWUxYzBhOThiMzIyMjExNDA1YTEwNDQ1Mjg0ZDg4M2IzY2UyNjQ3MjIiLCJpYXQiOjE2NDMwODIwNzgsIm5iZiI6MTY0MzA4MjA3OCwiZXhwIjoxNjc0NjE4MDc4LCJzdWIiOiI1Iiwic2NvcGVzIjpbXX0.S8hHrES8y4y1Wj7DvoOyV1HqA1OkSFCIkaUgf87HtSmar-1Cq04VrdWOUI7uqcwXbM0ACbicjbhp_OAzy0v24hDkwpAHMLbWIVsFncTgMcMOeSBobIZbKENIP6z0vEjxnFvAvElQkqy8kHjTGTmFVop0bFo18Hx53yLtiE4LCNdYXHNdAD0bgS1zGN6qszx_NJBJUxj2nElHy3LXFTw2OJhQkMxGqrk6gnmzEgNoUjRgLWpimNwjnm0EUNbCWwoTBG0EnkbUHBnJGeSF6G0O9siMWe9s972jLXyCNcIra0FqrOVwWkLkPBcDYLM6RSGieC37Bzqowg90o2TaDrUQlQHFDNfcru80cpjuxJ3hPM0E8k8UaJw-RkclDsw1SITLzsk-RGPrIJl48ac3Y1nHIdzhTimKXnhXVIxe8gHll3-w15rt7voXDCvtE_DbCN8LYIRRi2smPV1OM0fwT7SYpAbgGb8xGAcFNMBGRRW7QEhP9_EMIezAtBKeEs8lZLqj5SuSh2V0zN-SqxSFfO4WXMPYZWX6RLPaX4wL02DQ4h2VBfCrFJZhX9JFvCqsVE9wo0n8a0cooguyWnMiDkgGK5XZGcF5DRuN0_lM-BsBRgMibwye4tu8qD6ZKpF5TvCRUiqDBwH5DJOQyGgqie83VPXKqcPQ0SuQCCHsit2c3oU",
+        "name": "Nova Arianto",
+        "id_user": 5,
+        "email": "nova@gmail.com",
+        "image": null,
+        "level": 0
+    }
+}
